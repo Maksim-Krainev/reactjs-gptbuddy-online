@@ -66,10 +66,6 @@ This will launch the development server. Open [http://localhost:3000](http://loc
 
 Make sure to set your Git user name and email:
 
-```bash
-git config --global user.name "Andrew"
-git config --global user.email "andrew@vitche.com"
-```
 
 Stored in: [./commit.sh](./commit.sh) file.
 
